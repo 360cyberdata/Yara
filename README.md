@@ -1,6 +1,5 @@
 # Yara -how to install latest YARA version from source code in Kali Linux
 
-YARA
 apt-get update
 tar -zxf [version].tar.gz
 #Install the depencies first : automate, libtool, make, gcc, libssl-dev and libmagic-dev
