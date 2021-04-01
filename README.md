@@ -1,4 +1,5 @@
 # Install latest YARA version from source code in Kali Linux.
+=====
 
 >apt-get updates.  
 >tar -zxf [version].tar.gz
