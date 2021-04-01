@@ -12,6 +12,6 @@ sudo apt-get install automake libtool make gcc pkg-config autoconf libssl-dev li
 * make 
 * sudo make install
 
-##### Update Shared Libraries
+### Update Shared Libraries
 sudo ldconfig
 
