@@ -1,5 +1,5 @@
 # Install latest YARA version from source code in Kali Linux.
-
+> git clone [yara.yar](https://github.com/VirusTotal/yara/releases/tag/v4.1.0-rc2)
 >apt-get updates.  
 >tar -zxf [version].tar.gz
 ## Install Yara dependencies
@@ -11,7 +11,7 @@ sudo apt-get install automake libtool make gcc pkg-config autoconf libssl-dev li
 * ./configure --with-crypto --enable-magic
 * make 
 * sudo make install
-___
+
 ### Update Shared Libraries
 sudo ldconfig
 
