@@ -1,5 +1,5 @@
 # Install latest YARA version from source code in Kali Linux.
-> Download latest release [yara.yar](https://github.com/VirusTotal/yara/releases/tag/v4.1.0-rc2)  
+> Download latest release from github : https://github.com/VirusTotal/yara/releases/tag/v4.1.0-rc2  
 > apt-get updates.  
 >tar -zxf [version].tar.gz
 ## Install Yara dependencies
