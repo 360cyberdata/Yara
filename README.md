@@ -4,7 +4,7 @@
 >apt-get updates.  
 >tar -zxf [version].tar.gz
 # Install the depencies first : automate, libtool, make, gcc, libssl-dev and libmagic-dev
-=========================================================================================
+------------------------------------------------------
 >sudo apt-get install automake libtool make gcc pkg-config autoconf libssl-dev libmagic-dev
 
 # Install Yara
